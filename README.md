@@ -32,3 +32,4 @@ Upon launching the program using the compiled executable, the simulation will st
 
 - Press the `SPACE` key to randomize the grid with a new configuration.
 - Press the `ESC` key to exit the simulation.
+- Utilize the keys `A`, `S`, `W`, and `D` to navigate.
